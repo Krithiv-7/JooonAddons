@@ -1,170 +1,147 @@
-Looking for **Melody Mod** or **DojoHelper**? You're at the right place!
+# DISCLAIMER: The official [JooonAddons](https://github.com/JooonAddons/JooonAddons) repository contains malicious software and is highly not recommended.
 
-**Welcome to the GitHub page for Jooon Addons! DojoHelper and MelodyMod has moved into 1 unified module!**
+Welcome to the GitHub page for **JooonAddons**! This is a secure and polished fork of JooonAddons, designed to enhance your **Hypixel Skyblock** experience. It offers support for **The Dojo**, **The Harp**, **Fishing**, **Experiments**, and more, all while ensuring safety by removing malicious scripts for a smoother and more secure gameplay journey.
 
-![Downloads](https://img.shields.io/badge/Downloads-3.7k%2B-brightgreen) ![Happy Users](https://img.shields.io/badge/Happy%20Users-2.5k%2B-blue) ![Version](https://img.shields.io/badge/Version-v1-orange) ![By Skyblockers For Skyblockers](https://img.shields.io/badge/By%20Skyblockers,-For%20Skyblockers!-darkgreen)
+## What's New in JooonAddons:
 
-<table>
-  <tr>
-    <td>
-      <h2>📚 Table of Contents</h2>
-      <ul>
-        <li><a href="#-whats-new-in-jooonaddons">✨ What's New?</a></li>
-        <li><a href="#installation-guide-for-forge-version-189">🛠️ Installation Guide</a></li>
-        <li><a href="#previews">🎥 Previews</a></li>
-        <li><a href="#some-frequently-asked-questions-and-answers">❓ FAQ</a></li>
-        <li><a href="#-support-the-project">⭐ Support</a></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://cdn.discordapp.com/attachments/1318387121777807430/1318407027294470174/ca96dbfa-060c-4bf6-8f00-b997ab093109.jpg?ex=676235ba&is=6760e43a&hm=4ec338f988b0f553bef81bd57a30d8ca87ac8218019e7dc2083321207344145e&" width="400" alt="Block Image">
-    </td>
-  </tr>
-</table>
+- **Unified Module**: 
+  - **DojoHelper** and **MelodyMod** have been merged into a single module for improved performance and easier updates.
+  
+- **Malicious Script Removal**: 
+  - All harmful scripts from the original JooonAddons have been completely removed, ensuring a safe and smooth gaming experience.
 
-______________________________________________
-## **✨ What's new in JooonAddons?**
-______________________________________________
-***🌐 Global Changes:***
-- ⚡Entirely reworked modules, ensuring the best compatibility for every user! This new release runs all modules natively with the best performance in mind.
+- **Expanded Feature Support**:
+  - Support for various Skyblock features, including **The Dojo**, **The Harp**, **Fishing**, and **Experiments**.
 
- **🥋 Dojo:**
-- ✅ Reworked all of Dojohelper, currently supports the following modes: Test of Control, Test of Force, Test of Mastery, Test of Swiftness, Test of Discipline.
-- 🚀 Best possible ping performance for all of these modes. Thank you to all alpha testers for this.
+- **Improved Stability**: 
+  - Significant optimizations for smoother gameplay with reduced bugs and interruptions.
 
- 🎵 **Melody:**
-- 🎶 Also entirely reworked the module, song selection and click mode (regular/pingless) are now fully integrated and auto selects based on the situation!
+- **Polished Interface**: 
+  - A cleaner, more user-friendly interface to enhance your experience.
 
-🐟 **Fishing Helper & Auto Fishing (BRAND NEW)**
-- 🎣 Brand new fishing helper modules, as well as an auto fish feature with auto kill! Features include: Fishing Tracker (Water and Lava), Fishing Rotations and Movement (Anti-AFK), Auto Kill with support for Fire veil, Midas Staff and Hyperion, Special modes to fish for trophy fish such as vanille and slug fish, auto golden fish catcher, auto hook lava flame sea creatures, and auto bazaar sell when inventory is full!
+---
 
-📚 **Auto Experiment table Add-ons (BRAND NEW)**
-- 📕 Brand new Auto Experimentation table, which does the table add-ons for you, also have the option to auto close after getting 3 extra clicks on your superpairs.
-_____________________________________________
-## <a id="installation-guide-for-forge-version-189"></a> 🛠️ Installation Guide, for Forge version 1.8.9:
+### Features:
 
-- #1, Download the mod from this github repository. To download the Mod simply click the JooonAddons [v1].jar file above once and then the download icon, which says download raw.
-> DIRECT LINK: [CLICK](https://github.com/JooonAddons/JooonAddons/releases/download/Releases/JooonAddonsV1.jar)
-- #2, Locate the mod, the mod should be downloaded into your Downloads folder as a .jar file.
-- #3, Open your .minecraft folder, on Windows simply press the Windows Key + R to open Run, from there type %appdata% and then press enter, when in this folder go to the .minecraft folder and then Mods.
-- #4, Once in this Mods folder, drag the jar file from your Downloads folder into this folder, then close this folder and simply Start Minecraft.
-- #5, Once ingame, simply run the **/jooon** command to open the GUI! (Alias: /melody, /dojo)
-_____________________________________________
-**Forge 1.8.9 Installer (To use the Mod):** https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html
-_____________________________________________
+- **The Dojo**: Take on The Dojo in a secure and smooth experience.
+- **The Harp**: MelodyMod’s functions are now part of the unified module.
+- **Fishing**: Enhanced fishing experience with optimized support.
+- **Experiments**: Streamlined support for Skyblock experiments.
 
-## <a id="previews"></a> 🎮 **Previews:** *you may need to allow some time for the GIFs to load*
+For more information, check out the [JooonAddons repository](https://github.com/JooonAddons/JooonAddons).
 
-<details>
-  <summary>JooonAddons (/jooon)</summary>
+---
 
-  ![JA](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB3a3V3ZDF0N2c1N2Y5cWZtMWhtNzdjd2NsbTRsdjV4bnhlM3dpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TMAG7ycuVA3gjUumBB/giphy.gif)
+## Installation Guide
 
-</details>
+To install **JooonAddons**, follow the steps below:
 
-<details>
-  <summary>Control (Dojo)</summary>
-* Includes Knockback-reduction!
+### Prerequisites:
+1. **Minecraft Java Edition**: Ensure you are using the **Java Edition** of Minecraft, as this mod is not compatible with other versions.
+2. **Minecraft Forge**: Download and install **Minecraft Forge** (version 1.8.9 or higher) for the mod to work correctly.
+   - You can download Forge from the official website: [Forge Download](https://files.minecraftforge.net/).
 
-  ![Control](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG0ydTVrbGxoa3hlaTBxZ2NkZG16MDZvNHFyaGd0Y3ZtcWQxdWVhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JICp3gO4vD0DsG61iL/giphy-downsized-large.gif)
+### Steps:
+1. **Download the Latest Release**:
+   - Navigate to the [Releases page](https://github.com/Krithiv-7/JooonAddons/releases) and download the latest version of the **JooonAddons** mod.
+   
+2. **Install Forge**:
+   - If you haven’t already, download and install Minecraft Forge for your desired Minecraft version.
+   - Run the Minecraft launcher and select the Forge profile to ensure it’s installed correctly.
 
-</details>
+3. **Install the Mod**:
+   - Locate your Minecraft installation folder. You can find it in:
+     - **Windows**: `%AppData%/.minecraft`
+     - **macOS**: `~/Library/Application Support/minecraft`
+     - **Linux**: `~/.minecraft`
+   - Open the **mods** folder. If it doesn’t exist, create a folder named `mods`.
+   - Place the downloaded **JooonAddons** `.jar` file into the **mods** folder.
 
-<details>
-  <summary>Mastery (Dojo)</summary>
-* Note: Has some Artifacting due to the rotates, this is client side and does not affect performance!
-
-  ![Mastery](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ppN2tya3N2ODBsdWF3aDIzOGx1MHU4a2J5dHFvcWFrcjl5dnZxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EHN3Pc1M8r8GRWUWCe/giphy.gif)
-
-</details>
-
-<details>
-  <summary>Swiftness (Dojo)</summary>
-* Older preview, functionality is relatively the same in JooonAddons
-
-  ![Swiftness](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl0bHg0c3BicGVveDR1bGticzJpeGdrMWc2MTFmNHAyNm44czQ0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mX1wlsazTDNb5VLYrW/giphy-downsized.gif)
-
-</details>
-
-<details>
-  <summary>Discipline (Dojo)</summary>
-* Older preview, functionality is relatively the same in JooonAddons
-
-  ![Discipline](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1paGlyY3k4cjB1dHVjcmZ1Y3ByZTc0dTdycjZkNzViN3Q0Nm9yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/acAcqcdPIJEst1ft0E/giphy-downsized.gif)
-
-</details>
-
-<details>
-  <summary>Harp (Melody)</summary>
-* I suggest viewing the youtube video as the gif doesn't include audio.
-
-  ![Lullabye](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHltb2dzemR2c2M2ODJ0aXZmcm56NGluZDVzYnU5eDVkanNjbWF1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5TaZm1CO3wKxY8Kxn2/giphy.gif)   ![Campfire](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZiYXNucHN1OTk2cG10aHhjNHZyMmU0NmlmZWppMGptMjR0bHJqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9weJwuDV76g9u3Hid/giphy.gif) ![LaVie](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW03MnJhenpnb3A1cXIxMHY5eTB6cnQyaWE1emRjOHpvd2RmdzB1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WXYEqocyzqsMsam5O7/giphy.gif)
-
-</details>
-_____________________________________________
-
-# **❓Some Frequently asked questions and answers:**
-
-- Q: Is there a video preview?
-> A: Yes!, there is the latest preview showcasing the entirety of Jooon Addons, as well as 2 others that has similar functionality to JooonAddons, specifically the Melody video showcasing all songs.
-[JooonAddons Official Release (CLICK ME!)](https://www.youtube.com/watch?v=wYqCntvSDas),
-[Dojo (CLICK ME!)](https://youtu.be/FmI1B04Hnfs),
-[Melody (CLICK ME!)](https://www.youtube.com/watch?v=z75T1vFggbU)
-
-- Q: Is this mod Safe to use?
-> A: Yes! This mod is entirely safe to use as it follows Hypixel's guidelines and only does actions the exact same way a regular human would.
-
-- Q: Can I use this on any computer/account/network?
-> A: Yes! This mod is not license based as it is entirely free to use, so you can use this on any Windows, MacOS, Linux, Ethernet/WiFi and Minecraft account as you wish.
-
-- Q: What ping is this for?
-> A: Any ping! If you have low ping but are simply struggling with the dojo or the harp you can use this mod as well!
-
-- Q: What's the maximum amount of points I can get in the Dojo?
-> A: As much as you'd like! You control when the mod stops, so point gain can be infinite!
-
-- Q: Can I get black belt and the combat experience with this? And can I get the Tuning Fork/Melody's Hair accessory too?
-> A: Yes! You can use this to safely get all 7000 points required for the black belt, you can also easily use this to get both the Melody's hair accessory and the Tuning Fork!
-
-- Q: Do you plan to support later versions of Minecraft, like 1.20?
-> A: Not currently, as the base of the mod is locked to 1.8.9, moving all of the features while retaining functionality would be difficult but not impossible, stay tuned.
-
-- Q: How do I apply for Beta/Alpha tests?
-> A: Currently these roles are filled and I'm not taking any new applicants, thank you for your interest!
+4. **Launch Minecraft**:
+   - Open the Minecraft Launcher, select the Forge profile, and click **Play**.
+   - The mod should now be successfully installed and ready to use.
 
 
-_____________________________________________
+If you encounter any issues or need further assistance, feel free to check the issues section or open a new issue in the [GitHub repository](https://github.com/Krithiv-7/JooonAddons).
 
-## ⭐ Support the Project
+---
 
-If you enjoy using JooonAddons, don't forget to:
-- ⭐ **Star this repository** to show your support.
-- 🛠️ **Contribute** by submitting feedback or opening issues.
-- 📣 **Share** this mod with your Skyblock friends!
+## Why Use This Version of JooonAddons?
 
-👉 [**Download the Latest Version**](https://github.com/JooonAddons/JooonAddons/releases/download/Releases/JooonAddonsV1.jar)
+### Reasons to Use
 
-**Changelogs:**
+- **Enhanced Security**: Unlike the official version, this fork has been thoroughly cleaned and is free from any malicious scripts or harmful code that could compromise your account or system.
+- **Stable and Safe**: This version is free from the vulnerabilities found in the official repository. It provides a safer gameplay experience without the risk of potential account bans.
+- **Tested and Clean**: All features in this version are tested and safe to use, providing a smooth experience without the issues found in the official version.
 
-<details>
-  <summary>December 22 (2024)</summary>
+### Reasons Not to Use the Official JooonAddons
 
-  - Minor bug fixes, changes to Dojo.
+- **Malicious Software**: The official JooonAddons repository contains harmful scripts that could jeopardize your system or account. These scripts can lead to serious security risks, including data theft or account compromise.
+- **Pre-release Versions**: Any pre-release versions available in our repository are directly copied from the official JooonAddons repository. These versions are not recommended for use, as they may contain bugs or untested features that can lead to issues or security vulnerabilities. It is strongly advised to avoid using any pre-release versions.
+- **Account Risk**: Using the official version of JooonAddons exposes you to the risk of getting your account banned. Malicious scripts and unverified code can lead to violations of the game’s terms of service, resulting in account penalties or bans.
+- **Lack of Support**: The official repository lacks proper support or updates, meaning you are on your own if any issues arise. This fork, however, ensures that you are using a secure, stable, and well-maintained version with ongoing improvements.
 
-</details>
+---
 
-<details>
-  <summary>Jan 12</summary>
+## How to Test Whether Minecraft Jars Have RATs or Not
 
-  - Fixed strange instance where dojo test of swiftness will remain in place.
+### Testing for Malicious Code in Minecraft Jars
 
-</details>
+1. **Check for Suspicious Code in the JAR File**:
+    - Use a decompiler like **JD-GUI** or **CFR** to open the Minecraft JAR file.
+    - Inspect the code for any suspicious methods or obfuscated code that seems unusual. RATs often hide their operations in complex or encrypted code blocks.
+    - Look for code related to **network communication**, **file manipulation**, or **remote control** which could be indicative of malicious activity.
+
+2. **Use an Antivirus or Malware Scanner**:
+    - Run the Minecraft JAR through an **antivirus software** that specializes in detecting trojans, RATs, and other malicious code.
+    - Tools like **Bitdefender** or **Malwarebytes** may detect RATs if they're included in the JAR.
+    - Ensure the antivirus is up-to-date to catch new types of malicious software.
+
+3. **Check for Unusual File Operations**:
+    - If the JAR file interacts with files or directories outside the Minecraft directory (such as writing to system files or executing unknown scripts), it could be a sign of malicious behavior.
+    - Check whether the JAR tries to alter important system files or access unauthorized files.
+
+4. **Monitor Network Activity**:
+    - Run the Minecraft JAR on a controlled environment (like a virtual machine) and monitor its network traffic using tools such as **Wireshark** or **Fiddler**.
+    - If the JAR tries to establish outgoing connections to unfamiliar IP addresses or servers, it's a red flag that it could be communicating with a remote server (which is characteristic of RATs).
+
+5. **Check for Unexpected Permissions**:
+    - If you notice the JAR is requesting elevated permissions (like administrator access), it's important to be cautious.
+    - A legitimate Minecraft mod or JAR should not require such permissions unless it’s performing specific tasks like installing libraries or modifying Minecraft itself.
+
+6. **Compare with Official Sources**:
+    - Compare the code of your Minecraft JAR with the official, trusted version from Mojang or reputable sources.
+    - If there are significant discrepancies, such as additional classes or code that shouldn’t be there, it could indicate malicious intent.
+    - Always ensure you are downloading Minecraft JAR files from trusted sources and double-check against trusted platforms like **CurseForge** or **Spigot** for mods.
+
+7. **Use Online Services to Scan for RATs**:
+    - There are online services that allow you to upload JAR files to scan for RATs and malware. Services like **VirusTotal** can scan the file with multiple antivirus engines to provide a broader check for malicious content.
+    - This is a quick way to determine if the JAR file has been flagged by any antivirus engines.
+
+### Before using any mod **(INCLUDING THIS ONE)**, ensure its safety by scanning it with trusted tools. Here are some recommendations to check mods before installation:
+
+- **[IsThisARat](https://isthisarat.com/)**: Identify malicious mods quickly.
+- **[RatterScanner](https://discord.com/invite/E9uUFdjP5A)**: A community-driven resource for mod safety.
+- **[RatRater](https://ktibow.github.io/RatRater/)**: A specialized tool for assessing mod safety.
+
+Always verify mods before adding them to your game to protect your account and data.
+
+### Why This Matters
+
+Running Minecraft mods or JAR files that are compromised with RATs or malicious scripts can put your system, account, and personal data at risk. These malicious files may:
+- Capture your login credentials for Minecraft or other accounts.
+- Use your machine as a botnet or for other illegal activities.
+- Corrupt your game data, causing crashes or gameplay issues.
+
+Always ensure you are downloading files from trusted sources and perform the checks mentioned above to ensure your Minecraft experience remains safe and enjoyable.
 
 
-<details>
-  <summary>Jan 10</summary>
+---
 
-  - Fixed strange instance where dojo test of swiftness will remain in place, again...
-  - V2 will most likely have a reworked swiftness, so if this happens again please use a different part of the dojo helper while waiting for V2. Thank you for your patience!
+## Important Notice
 
-</details>
+Please be aware that the official JooonAddons repository is **NOT SAFE** and **I DO NOT APPROVE** of using any of the content from it. The repository contains malicious software that could harm your system or compromise your account.
+
+Additionally, **pre-release versions** available in the official repository are **NOT to be used**. These versions are still in development and are likely to contain vulnerabilities or other issues. I strongly discourage anyone from using any pre-release versions, as they could cause serious problems with your gameplay or system.
+
+If you choose to use the official mod or pre-release versions, and something goes wrong—such as your account being banned or your system getting compromised—I am **NOT RESPONSIBLE** for any consequences that may occur. Use at your own risk!
